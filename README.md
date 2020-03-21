@@ -1,6 +1,6 @@
 # download_page
-Run
+# Run
 python main.py or python3 main.py
 
-Input
+# Input
 copy and paste link you want to download onto the command line
